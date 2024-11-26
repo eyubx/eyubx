@@ -3,7 +3,5 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=eyubx&theme=dark&type=png" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eyubx" alt="GitHub Streak" /></a>
 </div>
